@@ -4,7 +4,7 @@
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
+  <img src="https://raw.githubusercontent.com/atiqurrehman123/atiqurrehman123/main/Hi%2C%20I'm%20Atiq%20(2).gif" alt="header"/>
 </div>
 <p align="center"> (Open for Hiring)</p>
 
@@ -30,7 +30,7 @@
 
 <h2 align="center">💬 My Blog Articles</h2>
 <p align="center" align='right'>
-  <a target="_blank"href="https://medium.com/@atiqu555.medium.com"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://atiqu555.medium.com/"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
