@@ -15,7 +15,9 @@
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=atiq" alt="https://github.com/atiqurrehman123" />
 </p>
-
+<p align="center">
+Email:atiqu555@gmail.com
+</p>
 <hr>
 
 <h2 align="center"> 🔭 Tools of Trade</h2>
