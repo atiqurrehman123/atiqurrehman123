@@ -17,7 +17,7 @@ I'm Atiq ur Rehman, a passionate software engineer building digital wonders.
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atiqurrehman123&locale=en&hide_title=false&layout=compact&count_private=true&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=atiqurrehman&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&count_private=true&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=atiqurrehman123&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&count_private=true&order=3" height="200" alt="streak graph"  />
 </div>
 <br>
 
@@ -101,7 +101,7 @@ I'm Atiq ur Rehman, a passionate software engineer building digital wonders.
 
 <p align="center">
  
-<a href="https://twitter.com/Atiqu55?s=09" target="_blank">
+<a href="https://x.com/Atiqu55" target="_blank">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a>
 
 <a href="https://www.instagram.com/atiqu555" target="_blank">
