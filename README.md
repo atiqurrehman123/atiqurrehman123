@@ -70,8 +70,7 @@ I'm Atiq ur Rehman, a passionate software engineer building digital wonders.
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="12" />
-  <img width="10" />
+ 
 </div>
 
 ###
