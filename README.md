@@ -15,10 +15,6 @@ I'm Atiq ur Rehman, a passionate software engineer building digital wonders.
   - 🧠 Overthinks occasionally, but that's just part of the creative process 🌟
 
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atiqurrehman123&locale=en&hide_title=false&layout=compact&count_private=true&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
-<br>
 
 <h2 align="center">🛠 My Weapons</h2>
 
